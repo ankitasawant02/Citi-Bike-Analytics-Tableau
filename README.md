@@ -14,3 +14,7 @@ Click https://public.tableau.com/profile/ankita6599#!/vizhome/Citibike_2018_twb/
 ![image](https://user-images.githubusercontent.com/49076702/64370131-a92ea900-cfd2-11e9-816b-976b49d15b27.png)
 
 1) In the low temperatures(winters), people tend not to ride the bikes due to the lack of comfort.Therefore, at some point the ridership does not grow. However, the total amount of annual member have been kept increased over time in 2018
+
+![image](https://user-images.githubusercontent.com/49076702/64371124-af258980-cfd4-11e9-916d-4e2313a57225.png)
+
+2) The major citi bike riders fall into young male age group between 18-20.The maximum subsciber usertype are males with 3223 number of records where as the females subscribers are with 541 records.
